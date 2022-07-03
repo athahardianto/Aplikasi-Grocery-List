@@ -1,0 +1,250 @@
+body {
+    background-color: #541212;
+    font-family: Arial, Helvetica, sans-serif;
+}
+h1 {
+    font-family: fantasy;
+    font-size: 40px;
+    text-shadow: 3px 3px 6px rgb(0, 0, 0);
+    color: #fafafa;
+}
+
+
+
+/* login styles*/
+.header-log {
+    background: url(images/login-header.jpeg) no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+.header h1 {
+    text-align: center;
+}
+.username {
+    text-align: center;
+    line-height: 2;
+    color: rgb(255, 255, 255);
+}
+.password {
+    text-align: center;
+    line-height: 2;
+    color: white;
+}
+.submit {
+    text-align: center;
+}
+.newacc {
+    text-align: center;
+    line-height: 2;
+    color: white;
+    font-size: 12px;
+}
+#login {
+    margin-top: 1rem;
+    padding: 8px 20px;
+    color: white;
+    background-color: black;
+    border-radius: 8px;
+    transition-duration: 0.4s;
+}
+#login:hover {
+    background-color: #ffffff;
+    color: black;
+}
+#username {
+    width: 50%;
+    padding: 8px 16px;
+}
+#password {
+    width: 50%;
+    padding: 8px 16px;
+}
+/* login styles */
+
+
+
+/* registrasi styles */
+.header-regis {
+    background: url(images/regis-header.jpg) no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+.header-regis h1 {
+    text-align: center;
+}
+.password2 {
+    text-align: center;
+    line-height: 2;
+    color: white;
+}
+#password2 {
+    width: 50%;
+    padding: 8px 16px;
+}
+.register {
+    text-align: center;
+}
+#register {
+    margin-top: 1rem;
+    padding: 8px 20px;;
+}
+.logakn {
+    text-align: center;
+    line-height: 2;
+    color: white;
+    font-size: 12px;
+}
+#register {
+    margin-top: 1rem;
+    padding: 8px 20px;
+    color: white;
+    background-color: black;
+    border-radius: 8px;
+    transition-duration: 0.4s;
+}
+#register:hover {
+    background-color: #ffffff;
+    color: black;
+}
+/* registrasi styles */
+
+
+
+/* index styles */
+.header-index {
+    background: url(images/index-header.jpeg) no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+.header {
+    color: rgb(255, 255, 255);
+    text-align: center;
+}
+.header h2 {
+    font-family: fantasy;
+    text-shadow: 1px 1px 3px rgb(99, 99, 99);
+    font-size: 25px;
+    color: #541212;
+}
+.buat {
+    line-height: 2;
+    color: white;
+    text-align: center;
+    font-size: larger;
+}
+.list {
+    text-align: left;
+    color: white;
+}
+.list a {
+    color: white;
+}
+#nama_list {
+    width: 60%;
+    padding: 8px 20px;
+}
+.submit-btn {
+    margin-top: 1rem;
+    padding: 8px 20px;
+    color: white;
+    background-color: #000000;
+    border-radius: 8px;
+    transition-duration: 0.4s;
+}
+.submit-btn:hover {
+    background-color: #ffffff;
+    color: black;
+}
+/* index styles */
+
+
+
+/* bahan styles */
+.header-bhn {
+    background: url(images/bahan-header.jpeg) no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+.judul h1 {
+    text-align: center;
+}
+li {
+    color: white;
+}
+.masuk-btn {
+    padding: 8px 20px;
+    color: white;
+    background-color: #000000;
+    border-radius: 8px;
+    transition-duration: 0.4s;
+}
+.masuk-btn:hover {
+    background-color: #ffffff;
+    color: black;
+}
+.submit-btn-bhn {
+    margin-top: 1rem;
+    padding: 10px 50px;
+    color: white;
+    background-color: #000000;
+    border-radius: 8px;
+    transition-duration: 0.4s;
+}
+.submit-btn-bhn:hover {
+    background-color: #ffffff;
+    color: black;
+}
+.kategori-btn-bhn {
+    margin-top: 1rem;
+    padding: 10px 68px;
+    color: white;
+    background-color: #000000;
+    border-radius: 8px;
+    transition-duration: 0.4s;
+}
+.kategori-btn-bhn:hover {
+    background-color: #ffffff;
+    color: black;
+}
+.body-bhn a {
+    color: white;
+}
+.body-bhn a:hover {
+    color: black;
+}
+/* bahan styles */
+
+
+
+/* kategori styles */
+.header-kat {
+    background: url(images/kat-header.jpeg) no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+.header-kat h1 {
+    text-align: center;
+}
+.body-kat a {
+    color: white;
+}
+/* kategori styles */
+
+
+
+/* lihatlist styles */
+.header-lht {
+    background: url(images/lihat-header.jpeg) no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+.header-lht h1 {
+    text-align: center;
+}
+.body-lht {
+    color: white;
+}
+.body-lht a {
+    color: white;
+}
+/* lihatlist styles */
